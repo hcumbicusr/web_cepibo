@@ -85,9 +85,9 @@ if ($config['entorno'] == 'D')
     */
    $config['accessBD'] = array(
        "host" => "localhost",
-       "db" => "ffingenier_cepibo",
-       "user" => "ffingenier_cepibo",
-       "pass" => "cepibo_123"
+       "db" => "",
+       "user" => "",
+       "pass" => ""
    );
    
 }
