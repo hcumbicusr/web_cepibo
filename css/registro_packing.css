@@ -1,0 +1,43 @@
+.color-select {
+	color: #000;
+}
+.color-select:hover{
+	background-color: #81BEF7 !important;
+	cursor: pointer;
+}
+
+.color-selected {
+	background-color: #81F79F !important;
+}
+/*
+.modal{
+    display: block !important; 
+}
+*/
+/* Important part */
+/*
+.modal-dialog{
+    overflow-y: initial !important
+}
+.modal-body{
+    height: 950px;
+    overflow-y: auto !important;
+}
+
+
+.moodal-dialog-fullwidth {
+}
+
+
+*/
+.moodal-dialog-fullwidth .modal-dialog {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+.moodal-dialog-fullwidth .modal-content {
+  height: auto;
+  min-height: 100%;
+  border-radius: 0;
+}

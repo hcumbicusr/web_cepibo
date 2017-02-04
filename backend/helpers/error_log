@@ -1,0 +1,3 @@
+[14-Dec-2016 03:29:14 America/Lima] PHP Warning:  file_get_contents(http://cepibo.ingenierosff.com:80/py_cepibo/backend/usuario):  in /home/ffingenier/cepibo.ingenierosff.com/backend/helpers/Sesion.php on line 26
+[14-Dec-2016 03:29:18 America/Lima] PHP Warning:  file_get_contents(http://cepibo.ingenierosff.com:80/py_cepibo/backend/usuario):  in /home/ffingenier/cepibo.ingenierosff.com/backend/helpers/Sesion.php on line 26
+[14-Dec-2016 03:29:27 America/Lima] PHP Warning:  file_get_contents(http://cepibo.ingenierosff.com:80/py_cepibo/backend/usuario):  in /home/ffingenier/cepibo.ingenierosff.com/backend/helpers/Sesion.php on line 26

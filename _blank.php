@@ -1,0 +1,1 @@
+UPDATE `sys_config` SET `f_licence`= '2100-12-30 23:59:59'  WHERE id = '1';
